@@ -14,7 +14,7 @@ A public collection of small things I learn day-to-day across a variety of subje
 
 The notes here are concise, single-topic write-ups that don't quite warrant a full blog post. This list will grow as I learn new concepts or re-learn old ones that are not yet documented here.
 
-This repository is my public-facing "second brain," specifically for topics I'm comfortable sharing.
+This repository is my public-facing **"second brain"**, specifically for topics I'm comfortable sharing.
 
 -----
 
