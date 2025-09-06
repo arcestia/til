@@ -7,6 +7,9 @@ A public collection of small things I learn day-to-day across a variety of subje
 ### Categories
 
   * [Computer Science & Technology](./tech/README.md)
+  * [General Knowledge & Trivia](./general/README.md)
+  * [Culture & History](./culture/README.md)
+  * [Languages & Linguistics](./languages/README.md)
 
 -----
 
