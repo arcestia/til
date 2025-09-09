@@ -23,7 +23,7 @@ This repository is my public-facing **"second brain"**, specifically for topics 
 
 ### Contact
 
-Want to know about me? Check out [aboutme.md](./external/aboutme/aboutme.md).
+Want to know about me? Check out [aboutme.md](https://gist.github.com/arcestia/de2ea6614c607540f6a8afe858645c6e).
 
 -----
 
