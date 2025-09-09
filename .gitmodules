@@ -1,0 +1,3 @@
+[submodule "external/aboutme"]
+	path = external/aboutme
+	url = https://gist.github.com/de2ea6614c607540f6a8afe858645c6e.git

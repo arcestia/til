@@ -21,6 +21,12 @@ This repository is my public-facing **"second brain"**, specifically for topics 
 
 -----
 
+### Contact
+
+Want to know about me? Check out [aboutme.md](./external/aboutme/aboutme.md).
+
+-----
+
 ## License
 
 > _**[arcestia/til](https://github.com/arcestia/til)** is licensed under [MIT](https://github.com/arcestia/til/blob/HEAD/LICENSE) © [Laurensius Jeffrey](https://github.com/arcestia) 2025._<br>
