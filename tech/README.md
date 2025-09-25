@@ -11,3 +11,4 @@ A collection of small things I've learned related to computer science, software 
 * [Security](./security/README.md)
 * [Cloudflare](./cloudflare/README.md)
 * [Bluesky](./bluesky/README.md)
+* [Mail Server](./mail-server/README.md)
